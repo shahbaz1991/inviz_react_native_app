@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "NewExpoProject",
-    "slug": "NewExpoProject",
-    "version": "1.0.0",
+    "slug": "inviz-demo-app",
+    "owner": "shahbaza7",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.shahbaza7.invizdemoapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
